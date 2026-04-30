@@ -7,4 +7,6 @@ void main(void){
 
     print("Hola mundo en linea 8");
 
+    printf("Hola mundo desde linea 10");
+
 }

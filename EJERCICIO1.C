@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int sumar(parametro1, parametro2){
+    return parametro1+parametro2;
+}
+
 
 void main(void){
 
@@ -15,5 +19,4 @@ void main(void){
      * Que imprima los numeros desde el primer parametro al segundo parametro.
      */
 
-    
 }

@@ -4,6 +4,9 @@ int sumar(parametro1, parametro2){
     return parametro1+parametro2;
 }
 
+int resta(parametro1, parametro2){
+    return parametro1-parametro2;
+}
 
 void main(void){
 
